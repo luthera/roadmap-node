@@ -1,0 +1,16 @@
+{
+  "extends": "../tsconfig.json",
+  "compilerOptions": {
+    "outDir": "../out-tsc/app",
+    "baseUrl": "./",
+    "module": "es2015",
+    "types": []
+  },
+  "exclude": [
+    "test.ts",
+    "**/*.spec.ts",
+    "**/*.test.ts",
+    "../node_modules/@roadmap/shared/**/*.spec.ts",
+    "../node_modules/@roadmap/shared/**/*.test.ts"
+  ]
+}

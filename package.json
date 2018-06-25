@@ -1,0 +1,31 @@
+{
+  "name": "roadmap-node",
+  "version": "1.0.0",
+  "description": "Roadmap App - Node",
+  "devDependencies": {
+    "lerna": "^2.11.0",
+    "tslint": "^5.10.0",
+    "typescript": "^2.8.3"
+  },
+  "scripts": {
+    "start": "echo \"Nothing to do\" && exit 1",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "lerna bootstrap"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+http://sgcvmscs01:7990/scm/troux/roadmap.git"
+  },
+  "keywords": [
+    "Boilerplate",
+    "Seed",
+    "SEAN",
+    "NodeJS",
+    "ExpressJS",
+    "Angular",
+    "SQLServer",
+    "Typescript",
+    "Prototype"
+  ],
+  "author": "Aaron Luther <aluther@planview.com>"
+}

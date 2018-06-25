@@ -1,0 +1,16 @@
+{
+  "db": {
+    "host": "127.0.0.1",
+    "dbuser": "sa",
+    "dbpassword": "Supp0rt01",
+    "port": 1433,
+    "dbname": "local_roadmap",
+    "testsMayDropDb": "true"
+  },
+  "cors": {
+    "origin": ["http://localhost:4200"]
+  },
+  "token": {
+    "secret": "tsmean"
+  }
+}
